@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Amplitude",
+    "description": "",
+    "home_page_url": "https://amplitudesolutions.com.br",
+    "feed_url": "https://amplitudesolutions.com.br/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Leandro de Medeiros"
+    },
+    "items": [
+    ]
+}

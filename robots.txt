@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://amplitudesolutions.com.br/sitemap.xml
