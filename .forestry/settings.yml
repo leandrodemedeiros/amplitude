@@ -11,6 +11,11 @@ sections:
   label: Páginas
   create: all
   match: "**/*"
+- type: directory
+  path: blog
+  label: Blog
+  create: all
+  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
