@@ -1,6 +1,6 @@
 ---
 title: Site
-timezone: UTC
+timezone: America/Sao_Paulo
 collections:
   posts:
     title: Posts
