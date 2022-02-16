@@ -1,5 +1,0 @@
-User-agent: *
-Sitemap: amplitudesolutions.com.br/sitemap.xml
-Disallow: /ghost/
-Disallow: /p/
-Disallow: /email/
